@@ -7,6 +7,7 @@
             (n)ame of the stat
             (a)mount of the stat
             (p)arent of the stat instance
+            (t)ype of the stat instance
     }}
 ]]
 
