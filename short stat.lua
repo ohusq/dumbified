@@ -11,14 +11,6 @@
     }}
 ]]
 
-a = 5
-function c(t,n,p)
-    local s = Instance.new(t,p)
-    s.Name = n
-end
-game.Players.PlayerAdded:Connect(function(z)
-    c("Folder","leaderstats",z) --// name "leaderstats" is required by roblox sadly
-    for i = 1,a do
-        c("IntValue","Stat"..i,z.leaderstats)
-    end
-end)
+a = 5;s = _G.s
+function c(t,n,p) s = Instance.new(t,p) s.Name = n end
+game.Players.PlayerAdded:Connect(function(z) c("Folder","leaderstats",z) for i=1,a do c("IntValue","Stat"..i,z.leaderstats) end end)
