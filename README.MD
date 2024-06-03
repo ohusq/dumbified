@@ -1,12 +1,13 @@
-# Welcome to "Shawtify"!
+# Welcome to "dumbified"!
 
 ## What is it?
 
-Shawtify is a repository of short and optimized (in terms of size) scripts that can be used to perform various tasks.
+Dumbified is a repository of short and optimized (in terms of size) scripts that can be used to perform various tasks.
 
 ## Why?
 
-Learning LUA in more depth and to have a place to store my scripts.
+Learning LUA in more depth and to have a place to store my scripts. 
+Tom foolery.
 
 ## Other information
 
